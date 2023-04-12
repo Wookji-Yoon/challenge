@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/challenge/static/js/main.36e4ba4c.js",
+    "main.js": "/challenge/static/js/main.e8297d81.js",
     "index.html": "/challenge/index.html",
-    "main.36e4ba4c.js.map": "/challenge/static/js/main.36e4ba4c.js.map"
+    "main.e8297d81.js.map": "/challenge/static/js/main.e8297d81.js.map"
   },
   "entrypoints": [
-    "static/js/main.36e4ba4c.js"
+    "static/js/main.e8297d81.js"
   ]
 }
